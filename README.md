@@ -1,4 +1,4 @@
 # New Project 
 This Project was created from local system.
 
-Created by Prasanthi Seelam
+Created by Prasanthi Seelam.
